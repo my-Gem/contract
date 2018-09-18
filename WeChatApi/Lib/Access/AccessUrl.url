@@ -1,7 +1,0 @@
-1.如果需要授权请将该地址生成二维码
-https://open.weixin.qq.com/connect/oauth2/authorize?appid={$appID}&redirect_uri={需要授权地址}&response_type=code&scope=snsapi_base&state=123#wechat_redirect
-
-scope参数如下
-snsapi_base:必须关注后才能授权(通用形式)
-snsapi_userinfo:无须关注就马上授权(只有认证的开发号才能使用,推荐)
-
