@@ -1,1 +1,0 @@
-https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxc85df9b030d8257d&redirect_uri=http://moluo.net/wx/access.php&response_type=code&scope=snsapi_base&state=123#wechat_redirect
