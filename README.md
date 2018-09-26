@@ -1,0 +1,2 @@
+# contract
+index是以太坊智能合约的一个demo,工具用的idea，合约内包括ganache环境测试，mocha框架,solc的编译，infura节点部署到rinkby test network，sendMoney是以太坊转账逻辑示例,可以在metamask查看转账是否成功，可在rinkeby.etherscan.io查看是否记录到以太坊rinkby test network，还有关于block的一些信息，BlockchainLottery02这个项目是一个以太坊智能合约彩票项目，是一个还算完善的demo
