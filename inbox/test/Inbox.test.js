@@ -33,12 +33,12 @@ describe('测试智能合约',()=>{
         console.log(message);
         assert.equal(message,'abc');
 
-        await  result.methods.setMessage('itheima').send({
+        await  result.methods.setMessage('haha').send({
             from :accounts[0],
             gas:1000000
         });
          message = await result.methods.getMessage().call();
         console.log(message);
-        assert.equal(message,'itheima');
+        assert.equal(message,'haha');
     });
 });
